@@ -1,4 +1,4 @@
-I'll rewrite the README.md in your authentic developer voice, maintaining all the essential information while making it more engaging and professional. Here's the markdown version ready for GitHub:
+
 
 # 🧠 NEAR AI Agent Framework
 
